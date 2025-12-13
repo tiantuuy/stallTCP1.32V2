@@ -134,7 +134,6 @@
 2.  点击 **创建命名空间 (Create a Namespace)**，命名为 `BLACKLIST`（或任意名称）。
 3.  回到你的 Worker/Pages/Snippet 项目设置页：
     *   **Workers/Pages**：`设置` -> `变量` -> `KV 命名空间绑定`。
-    *   **Snippets**：`Snippets` 列表页 -> 点击你的片段 -> `变量`。
 4.  点击 **添加绑定**：
     *   **变量名称 (Variable name)**: `LH` (⚠️必须填这个，不能改)
     *   **KV 命名空间**: 选择你刚才创建的空间。
